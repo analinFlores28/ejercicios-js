@@ -35,3 +35,4 @@ const ejercicio2 = [
     esFamiliar: true,
   },
 ];
+
